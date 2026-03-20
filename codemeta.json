@@ -1,0 +1,24 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Especialistas en Salud Mental y Neurolog\u00eda por 100.000 Habitantes en Iberoam\u00e9rica (2000-2026)",
+  "identifier": "10.5281/zenodo.18984816",
+  "url": "https://doi.org/10.5281/zenodo.18984816",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Mois\u00e9s",
+      "familyName": "de la Serna Tuya",
+      "@id": "https://orcid.org/0000-0002-8401-8018"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [
+    "salud mental",
+    "especialistas",
+    "Iberoam\u00e9rica",
+    "WHO Mental Health Atlas",
+    "PAHO",
+    "dataset longitudinal"
+  ]
+}
