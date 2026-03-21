@@ -1,0 +1,36 @@
+{
+  "title": "Base de datos longitudinal (2000-2026) sobre la densidad de especialistas en salud mental y neurología por cada 100.000 habitantes en 16 países iberoamericanos, incluyendo promedios OCDE y ALC. Variables: psiquiatras, psicólogos clínicos, neurólogos,",
+  "description": "Base de datos longitudinal (2000-2026) sobre la densidad de especialistas en salud mental y neurología por cada 100.000 habitantes en 16 países iberoamericanos, incluyendo promedios OCDE y ALC. Variables: psiquiatras, psicólogos clínicos, neurólogos,",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "open-data",
+    "dataset",
+    "research",
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/especialistas-en-salud-mental-y-neurologia-por-100000-habitantes-en-iberoamerica",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
