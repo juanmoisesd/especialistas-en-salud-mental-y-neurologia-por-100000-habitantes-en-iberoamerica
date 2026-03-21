@@ -1,24 +1,42 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Especialistas en Salud Mental y Neurolog\u00eda por 100.000 Habitantes en Iberoam\u00e9rica (2000-2026)",
-  "identifier": "10.5281/zenodo.18984816",
-  "url": "https://doi.org/10.5281/zenodo.18984816",
+  "@type": "SoftwareSourceCode",
+  "name": "Base de datos longitudinal (2000-2026) sobre la densidad de especialistas en salud mental y neurología por cada 100.000 habitantes en 16 países iberoamericanos, incluyendo promedios OCDE y ALC. Variables: psiquiatras, psicólogos clínicos, neurólogos,",
+  "description": "Base de datos longitudinal (2000-2026) sobre la densidad de especialistas en salud mental y neurología por cada 100.000 habitantes en 16 países iberoamericanos, incluyendo promedios OCDE y ALC. Variables: psiquiatras, psicólogos clínicos, neurólogos,",
+  "url": "https://github.com/juanmoisesd/especialistas-en-salud-mental-y-neurologia-por-100000-habitantes-en-iberoamerica",
+  "codeRepository": "https://github.com/juanmoisesd/especialistas-en-salud-mental-y-neurologia-por-100000-habitantes-en-iberoamerica",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "salud mental",
-    "especialistas",
-    "Iberoam\u00e9rica",
-    "WHO Mental Health Atlas",
-    "PAHO",
-    "dataset longitudinal"
-  ]
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
