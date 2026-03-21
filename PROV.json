@@ -1,0 +1,32 @@
+{
+  "wasGeneratedBy": {
+    "activity": "DataCompilation",
+    "agent": {
+      "type": "Person",
+      "name": "Juan Moisés de la Serna Tuya",
+      "orcid": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)"
+    },
+    "startedAtTime": "2026-03-01T00:00:00Z",
+    "endedAtTime": "2026-03-20T00:00:00Z"
+  },
+  "entity": {
+    "type": "Dataset",
+    "name": "Base de datos longitudinal (2000-2026) sobre la densidad de especialistas en salud mental y neurología por cada 100.000 habitantes en 16 países iberoamericanos, incluyendo promedios OCDE y ALC. Variables: psiquiatras, psicólogos clínicos, neurólogos,",
+    "url": "https://github.com/juanmoisesd/especialistas-en-salud-mental-y-neurologia-por-100000-habitantes-en-iberoamerica",
+    "license": "CC0-1.0"
+  },
+  "wasDerivedFrom": {
+    "description": "Compiled from publicly available secondary sources",
+    "sources": [
+      "Public databases",
+      "Peer-reviewed literature",
+      "International organizations"
+    ]
+  },
+  "wasAttributedTo": {
+    "type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "orcid": "https://orcid.org/0000-0002-8401-8018"
+  }
+}
