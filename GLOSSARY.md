@@ -1,4 +1,4 @@
-# 📖 Glosario / Glossary: Neurología y Enfermedades Neurodegenerativas / Neurology & Neurodegenerative Diseases
+# 📖 Glosario / Glossary: Salud Mental y Bienestar Psicológico / Mental Health & Psychological Well-Being
 
 > **Definiciones originales de / Original definitions by:** Juan Moisés de la Serna Tuya
 > **ORCID:** [0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018) | **LinkedIn:** [juanmoisesdelaserna](https://www.linkedin.com/in/juanmoisesdelaserna/)
@@ -7,7 +7,7 @@
 
 ---
 
-*Definiciones originales en neurología clínica, enfermedad de Alzheimer, deterioro cognitivo y demencias, con aplicación a datos epidemiológicos de América Latina.*
+*Definiciones originales en salud mental, psicología clínica, epidemiología psiquiátrica y bienestar psicológico.*
 
 *Este glosario contiene definiciones originales propuestas por el autor en el contexto de esta base de datos. Las definiciones están disponibles en español e inglés para maximizar la difusión internacional. Si utilizas estas definiciones, por favor cita al autor (ver sección al final del documento).*
 
@@ -15,56 +15,65 @@
 
 ## A
 
-**Alzheimer (Enfermedad de) / Alzheimer's Disease**
-Trastorno neurodegenerativo progresivo e irreversible que constituye la causa más frecuente de demencia (60-70% de los casos). Se caracteriza histopatológicamente por la acumulación de placas de amiloide-β y ovillos neurofibrilares de proteína tau hiperfosforilada, con pérdida sináptica y neuronal progresiva.
-*A progressive and irreversible neurodegenerative disorder constituting the most frequent cause of dementia (60-70% of cases). It is histopathologically characterized by accumulation of amyloid-β plaques and hyperphosphorylated tau neurofibrillary tangles, with progressive synaptic and neuronal loss.*
+**Ansiedad Generalizada / Generalized Anxiety Disorder (GAD)**
+Trastorno mental caracterizado por preocupación excesiva, difícil de controlar, sobre múltiples dominios de la vida durante al menos seis meses, con síntomas somáticos como tensión muscular, fatiga y alteraciones del sueño.
+*A mental disorder characterized by persistent, difficult-to-control worry about multiple life domains for at least six months, with somatic symptoms including muscle tension, fatigue, and sleep disturbance.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## B
 
-**Biomarcadores de Demencia / Dementia Biomarkers**
-Indicadores biológicos medibles (en líquido cefalorraquídeo, sangre o mediante neuroimagen) que reflejan procesos fisiopatológicos subyacentes a las demencias, incluyendo niveles de Aβ42, proteína tau total, tau fosforilada, neurofilamento de cadena ligera (NfL) y atrofia hipocampal en RM.
-*Measurable biological indicators (in cerebrospinal fluid, blood, or through neuroimaging) reflecting pathophysiological processes underlying dementias, including Aβ42, total tau, phosphorylated tau, neurofilament light chain (NfL) levels, and hippocampal atrophy on MRI.*
+**Burnout Académico / Academic Burnout**
+Estado de agotamiento emocional, despersonalización y reducción de la eficacia percibida que afecta a estudiantes universitarios sometidos a demandas académicas crónicas que superan sus recursos de afrontamiento.
+*A state of emotional exhaustion, depersonalization, and reduced perceived efficacy affecting university students subjected to chronic academic demands exceeding their coping resources.*
+*— De la Serna Tuya, J. M. (2025)*
+
+## C
+
+**Conducta Suicida / Suicidal Behavior**
+Espectro que incluye ideación suicida, planes, tentativas y suicidio consumado. La conducta suicida es multideterminada por factores biológicos, psicológicos y sociales.
+*A spectrum including suicidal ideation, plans, attempts, and completed suicide, multidetermined by biological, psychological, and social factors.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## D
 
-**Demencia / Dementia**
-Síndrome clínico caracterizado por deterioro progresivo de múltiples funciones cognitivas (memoria, lenguaje, funciones ejecutivas, orientación) de suficiente gravedad como para interferir con las actividades de la vida diaria, causado por enfermedades cerebrales diversas.
-*A clinical syndrome characterized by progressive deterioration of multiple cognitive functions (memory, language, executive functions, orientation) severe enough to interfere with daily life activities, caused by various brain diseases.*
+**Depresión Mayor / Major Depressive Disorder**
+Trastorno del estado de ánimo con episodios de humor deprimido o anhedonia durante al menos dos semanas, con cambios en sueño, apetito, concentración, energía y pensamientos de muerte. Primera causa global de discapacidad (OMS).
+*A mood disorder with episodes of depressed mood or anhedonia for at least two weeks, with changes in sleep, appetite, concentration, energy, and thoughts of death. The leading global cause of disability (WHO).*
 *— De la Serna Tuya, J. M. (2025)*
 
-**Deterioro Cognitivo Leve (DCL) / Mild Cognitive Impairment (MCI)**
-Estado clínico intermedio entre el envejecimiento cognitivo normal y la demencia, caracterizado por déficits cognitivos objetivos que no comprometen la funcionalidad diaria. El DCL amnésico tiene alto riesgo de conversión a enfermedad de Alzheimer (10-15% anual).
-*An intermediate clinical state between normal cognitive aging and dementia, characterized by objective cognitive deficits that do not compromise daily functionality. Amnestic MCI carries high risk of conversion to Alzheimer's disease (10-15% annually).*
+## E
+
+**Estrés Económico / Economic Stress**
+Estado de malestar psicológico crónico derivado de dificultades financieras persistentes (desempleo, deudas, inseguridad económica) que afecta el bienestar subjetivo, la salud mental y las relaciones interpersonales.
+*A state of chronic psychological distress arising from persistent financial difficulties (unemployment, debts, economic insecurity) affecting subjective well-being, mental health, and interpersonal relationships.*
 *— De la Serna Tuya, J. M. (2025)*
 
-## F
+## M
 
-**Factores de Riesgo Modificables de Demencia / Modifiable Dementia Risk Factors**
-Variables sobre las que es posible intervenir para reducir el riesgo de demencia, identificadas por la Comisión Lancet (2020): hipertensión, tabaquismo, obesidad, depresión, inactividad física, diabetes, hipoacusia, consumo excesivo de alcohol, lesión cerebral traumática, contaminación del aire y aislamiento social.
-*Variables amenable to intervention to reduce dementia risk, identified by the Lancet Commission (2020): hypertension, smoking, obesity, depression, physical inactivity, diabetes, hearing loss, excessive alcohol consumption, traumatic brain injury, air pollution, and social isolation.*
-*— De la Serna Tuya, J. M. (2025)*
-
-## H
-
-**Hipocampo / Hippocampus**
-Estructura cerebral bilateral ubicada en el lóbulo temporal medial, fundamental para la consolidación de memorias declarativas y la navegación espacial. La atrofia hipocampal es el biomarcador estructural más precoz de la enfermedad de Alzheimer.
-*A bilateral brain structure located in the medial temporal lobe, fundamental for declarative memory consolidation and spatial navigation. Hippocampal atrophy is the earliest structural biomarker of Alzheimer's disease.*
+**Mindfulness**
+Estado psicológico de atención plena al momento presente, intencional y sin juicio. Con evidencia acumulada sobre su eficacia en la reducción del estrés (MBSR), la prevención de recaídas depresivas (MBCT) y la mejora del bienestar general.
+*A state of intentional, non-judgmental present-moment awareness, with accumulated evidence for efficacy in stress reduction (MBSR), depressive relapse prevention (MBCT), and general well-being improvement.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## P
 
-**Proteína Tau / Tau Protein**
-Proteína asociada a microtúbulos que en condiciones patológicas se hiperfosforila, se separa de los microtúbulos y forma agregados intracelulares (ovillos neurofibrilares) característicos de las tauopatías, incluida la enfermedad de Alzheimer.
-*A microtubule-associated protein that under pathological conditions becomes hyperphosphorylated, detaches from microtubules, and forms intracellular aggregates (neurofibrillary tangles) characteristic of tauopathies, including Alzheimer's disease.*
+**Psicología Positiva / Positive Psychology**
+Rama científica centrada en fortalezas humanas, bienestar, emociones positivas, flourishing y factores que contribuyen a una vida con sentido, más allá de la ausencia de patología.
+*A scientific branch focused on human strengths, well-being, positive emotions, flourishing, and factors contributing to a meaningful life, beyond the mere absence of pathology.*
 *— De la Serna Tuya, J. M. (2025)*
 
-## S
+## R
 
-**Screening Cognitivo / Cognitive Screening**
-Evaluación breve y estandarizada de funciones cognitivas en población general o clínica para identificar posible deterioro cognitivo que requiera evaluación neuropsicológica completa. Instrumentos validados incluyen el MMSE, MoCA, MOCA-Blind y Mini-Cog.
-*A brief, standardized assessment of cognitive functions in general or clinical populations to identify possible cognitive impairment requiring comprehensive neuropsychological evaluation. Validated instruments include the MMSE, MoCA, MOCA-Blind, and Mini-Cog.*
+**Resiliencia Psicológica / Psychological Resilience**
+Capacidad de adaptarse positivamente ante la adversidad, el trauma o el estrés significativo, manteniendo o recuperando un funcionamiento psicológico saludable.
+*The capacity to adapt positively in the face of adversity, trauma, or significant stress, maintaining or recovering healthy psychological functioning.*
+*— De la Serna Tuya, J. M. (2025)*
+
+## T
+
+**TEPT / Post-Traumatic Stress Disorder (PTSD)**
+Trastorno que se desarrolla tras exposición a eventos traumáticos, con reexperimentación intrusiva, evitación, alteraciones cognitivas y emocionales negativas, e hiperactivación fisiológica persistente.
+*A disorder developing after exposure to traumatic events, featuring intrusive re-experiencing, avoidance, negative cognitive and emotional alterations, and persistent physiological hyperarousal.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ---
