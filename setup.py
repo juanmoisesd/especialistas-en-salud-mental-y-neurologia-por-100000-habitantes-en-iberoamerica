@@ -1,0 +1,13 @@
+from setuptools import setup, find_packages
+setup(
+    name="especialistas-en-salud-mental-y-neurologia-por-100000-habitantes-en-iberoamerica",
+    version="1.0.0",
+    description="Base de datos longitudinal (2000-2026) sobre la densidad de especialistas en salud mental y neurolog",
+    author="de la Serna, Juan Moisés",
+    url="https://github.com/juanmoisesd/especialistas-en-salud-mental-y-neurologia-por-100000-habitantes-en-iberoamerica",
+    packages=find_packages(),
+    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
+    python_requires=">=3.7",
+    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
+    keywords="cc0, citation, clinical-psychology, dataset, fair-data, iberoamerica, juan-moises-de-la-serna, latam, latin-america, mental-health, open-data, open-science, orcid, psychiatry, psychology, research, wellbeing, zenodo, zenodo, open-data",
+)
