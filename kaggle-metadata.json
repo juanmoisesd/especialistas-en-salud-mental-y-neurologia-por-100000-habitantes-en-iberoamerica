@@ -1,0 +1,23 @@
+{
+  "title": "Base de datos longitudinal (2000-2026) sobre la densidad de especialistas en sal",
+  "id": "juanmoisesd/especialistas-en-salud-mental-y-neurologia-por-100",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "clinical-psychology",
+    "dataset",
+    "fair-data",
+    "iberoamerica",
+    "juan-moises-de-la-serna",
+    "latam",
+    "latin-america",
+    "mental-health"
+  ],
+  "description": "Base de datos longitudinal (2000-2026) sobre la densidad de especialistas en salud mental y neurología por cada 100.000 habitantes en 16 países iberoamericanos, incluyendo promedios OCDE y ALC. Variables: psiquiatras, psicólogos clínicos, neurólogos,\n\nDOI: https://github.com/juanmoisesd/especialistas-en-salud-mental-y-neurologia-por-100000-habitantes-en-iberoamerica\nGitHub: https://github.com/juanmoisesd/especialistas-en-salud-mental-y-neurologia-por-100000-habitantes-en-iberoamerica\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
